@@ -1,0 +1,8 @@
+GameProject {
+ ID "ReforgerContextMenu"
+ GUID "5D3718DC08987233"
+ TITLE "ReforgerContextMenu"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
